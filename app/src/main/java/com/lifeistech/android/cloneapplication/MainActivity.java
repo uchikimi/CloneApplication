@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     int mikit;
+    int mikit2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
